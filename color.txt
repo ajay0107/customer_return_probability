@@ -6,3 +6,9 @@ black
 
 deer
 tiger
+
+Indian flag color:
+Saffron
+White
+Green
+
