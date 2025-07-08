@@ -12,3 +12,7 @@ Saffron
 White
 Green
 
+Indian States:
+MP
+UP
+Goa
